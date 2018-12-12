@@ -42,3 +42,23 @@ we can think of this problem in 4 states, ee (both even number and expectation),
 
 
 there can be more than 1 finite state machine for a problem. and you can wonder given a problem, can there be a minimum finite state machine with minimal states
+
+dynamic programming algorithm can give us that canonical minimum
+
+--------
+Binary number divisible by 4
+
+hard way -> convert to decimal then divide by 4 and check for reminder is 0
+simply way -> last 2 digits of a binary number should be zero.
+
+---------
+build finite state machine that contains 110110
+
+------
+problems can't be solved with finite state machine
+* that require counting
+if a string has equal number of zeros and ones
+----
+#### Non determinism
+
+#### Diagnolization

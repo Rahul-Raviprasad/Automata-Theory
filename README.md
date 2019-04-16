@@ -61,4 +61,13 @@ if a string has equal number of zeros and ones
 ----
 #### Non determinism
 
+how to convert non deterministic machine into a deterministic machine?
 #### Diagnolization
+
+regular sets
+
+closed under complement
+
+reversal
+
+closure
